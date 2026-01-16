@@ -103,6 +103,3 @@
 - [ ] While the Light Lasts  
 - [ ] Why Didn’t They Ask Evans?
 
----
-
-Mark books as you read them by replacing `[ ]` with `[x]`.
